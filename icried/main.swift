@@ -15,3 +15,4 @@ for i in 0...70{
 print(n << i)
 }
 
+//change
